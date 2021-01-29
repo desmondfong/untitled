@@ -4,7 +4,8 @@
     "dependencies": {
         "core": "*",
         "radio": "*",
-        "microbit-v2": "github:microbit-foundation/pxt-microbit-v2-extension#v0.4.2"
+        "microbit-v2": "github:microbit-foundation/pxt-microbit-v2-extension#v0.4.2",
+        "microphone": "*"
     },
     "files": [
         "main.blocks",
